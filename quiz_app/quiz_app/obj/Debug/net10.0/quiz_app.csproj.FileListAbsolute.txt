@@ -1,0 +1,14 @@
+D:\Workstation\STUDY\IT\Development\backend\c#\quiz_app\quiz_app\bin\Debug\net10.0\quiz_app.exe
+D:\Workstation\STUDY\IT\Development\backend\c#\quiz_app\quiz_app\bin\Debug\net10.0\quiz_app.deps.json
+D:\Workstation\STUDY\IT\Development\backend\c#\quiz_app\quiz_app\bin\Debug\net10.0\quiz_app.runtimeconfig.json
+D:\Workstation\STUDY\IT\Development\backend\c#\quiz_app\quiz_app\bin\Debug\net10.0\quiz_app.dll
+D:\Workstation\STUDY\IT\Development\backend\c#\quiz_app\quiz_app\bin\Debug\net10.0\quiz_app.pdb
+D:\Workstation\STUDY\IT\Development\backend\c#\quiz_app\quiz_app\obj\Debug\net10.0\quiz_app.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workstation\STUDY\IT\Development\backend\c#\quiz_app\quiz_app\obj\Debug\net10.0\quiz_app.AssemblyInfoInputs.cache
+D:\Workstation\STUDY\IT\Development\backend\c#\quiz_app\quiz_app\obj\Debug\net10.0\quiz_app.AssemblyInfo.cs
+D:\Workstation\STUDY\IT\Development\backend\c#\quiz_app\quiz_app\obj\Debug\net10.0\quiz_app.csproj.CoreCompileInputs.cache
+D:\Workstation\STUDY\IT\Development\backend\c#\quiz_app\quiz_app\obj\Debug\net10.0\quiz_app.dll
+D:\Workstation\STUDY\IT\Development\backend\c#\quiz_app\quiz_app\obj\Debug\net10.0\refint\quiz_app.dll
+D:\Workstation\STUDY\IT\Development\backend\c#\quiz_app\quiz_app\obj\Debug\net10.0\quiz_app.pdb
+D:\Workstation\STUDY\IT\Development\backend\c#\quiz_app\quiz_app\obj\Debug\net10.0\quiz_app.genruntimeconfig.cache
+D:\Workstation\STUDY\IT\Development\backend\c#\quiz_app\quiz_app\obj\Debug\net10.0\ref\quiz_app.dll
