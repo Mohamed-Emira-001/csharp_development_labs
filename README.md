@@ -1,4 +1,3 @@
 Hello World!!
-This my csharp practice !!
-all of things is ok!!!
+This is my csharp practice !!
 Thanks
